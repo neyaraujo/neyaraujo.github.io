@@ -1,4 +1,4 @@
-# neyaraujo.hithub.io <a href="https://github.com/neyaraujo"></a><h1>
+# Franciney de J. Araujo, acesse o repositório público das minhas aulas <a href="https://github.com/neyaraujo" target="_blank"></a>
  <p>
     Olá, meu nome é Franciney de J. Araújo sou estudante de Desenvolvimento Front-End.
 </p>
