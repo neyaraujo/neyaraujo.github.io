@@ -4,4 +4,3 @@
 <ul>
 <li><a href="https://neyaraujo.github.io/projeto-android/" target="_blank">Desafio 01 - Site Android</a>
 <li><a href="https://neyaraujo.github.io/projeto-cordel/" target="_blank">Desafio 02 - Projeto Cordel</a>
-</ul>
