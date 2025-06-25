@@ -10,4 +10,3 @@
 <li><a href="http://git-scm.com/">Git-SCM</a></li>
 <li><a href="http://desktop.github.com/">Git-Desktop</a></li>
 </ul>
-<iframe src="https://github.com/neyaraujo"></iframe>
