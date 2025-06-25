@@ -3,7 +3,7 @@
 <h2>Desafios</h2>
 <ul>
 <li><a href="https://neyaraujo.github.io/projeto-android/" target="_blank">Desafio 01 - Site Android</a></li>
-<li><a href="https://neyaraujo.github.io/projeto-cordel/" target="_blank">Desafio 02 - Projeto Cordel</a></li>
+<li><a href="https://neyaraujo.github.io/projeto-android/" target="_blank">Desafio 02 - Projeto Cordel</a></li>
 </ul>
 <h2>Programas de Repositório</h2>
 <ul>
