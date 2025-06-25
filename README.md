@@ -6,5 +6,7 @@
 <li><a href="https://neyaraujo.github.io/projeto-cordel/" target="_blank">Desafio 02 - Projeto Cordel</a></li>
 </ul>
 <h2>Programas de Repositório</h2>
+<ul>
 <li><a href="http://git-scm.com/">Git-SCM</a></li>
 <li><a href="http://desktop.github.com/">Git-Desktop</a></li>
+</ul>
