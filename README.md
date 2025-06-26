@@ -1,4 +1,4 @@
-<h1>Olá, meu é Franciney sou estudante de Desenvolvimento Front-End.</h1>
+<h1>Olá, sou Franciney Araújo, estudante de Desenvolvimento Front-End.</h1>
 <p>Acesse meu <a href="https://github.com/neyaraujo" target="_blank">repositório github</a> público do guithub e veja os exercícios e desafios de HTML e CSS</p>
 <h2>Desafios</h2>
 <ul>
