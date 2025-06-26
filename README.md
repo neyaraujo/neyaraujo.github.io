@@ -1,5 +1,5 @@
 <h1>Olá, sou Franciney Araújo, estudante de Desenvolvimento Front-End.</h1>
-<p>Acesse meu <a href="https://github.com/neyaraujo" target="_blank">repositório github</a> público do guithub e veja os exercícios e desafios de HTML e CSS</p>
+<p>Acesse meu <a href="https://github.com/neyaraujo" target="_blank">repositório github</a> público do guithub e veja os <a href="https://github.com/neyaraujo/html-css/tree/main">exercícios e desafios</a> de HTML e CSS</p>
 <h2>Desafios</h2>
 <ul>
 <li><a href="https://neyaraujo.github.io/projeto-android/" target="_blank">Desafio 01 - Site Android</a></li>
